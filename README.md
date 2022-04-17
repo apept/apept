@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apept
-- 👀 I’m interested in Cybersecurity and also some programming
-- 🌱 I’m currently learning cryptopgraphy and python for forensic science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cybersecurity, programming, and philosophy. 
+- 🌱 I’m currently learning python for forensic science and Microsoft Azure
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
 <!---
